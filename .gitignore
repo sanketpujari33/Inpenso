@@ -24,7 +24,6 @@ Package.resolved
 *.swo
 *~
 .DS_Store
-.vscode/
 
 # Build artifacts
 *.o
@@ -39,4 +38,5 @@ Package.resolved
 
 # Temporary files
 *.tmp
-.env.local
+config.bat
+node_modules
